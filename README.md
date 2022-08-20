@@ -1,12 +1,11 @@
-# oktetov2ray
-# V2Ray Okteto
+# okvtwo
 
 ## 注意本项目有封号的风险，不要用常用的github账号
 
 ## 概述
 
 ### 注册地址：https://okteto.com/
-本专案用于在 Okteto上部署 V2Ray WebSocket，
+本专案用于在 Okteto上部署 okvtwo ，
 
 部署完成后，每次启动应用时，运行的 V2Ray 将始终为最新版本
 
